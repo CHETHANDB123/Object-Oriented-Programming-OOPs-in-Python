@@ -1,0 +1,4 @@
+a is apple
+b is ball
+Hello World
+Thgis is Append ModeThis is Append Mode
