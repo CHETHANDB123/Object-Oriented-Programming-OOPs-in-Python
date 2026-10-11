@@ -1,0 +1,5 @@
+#'r+'(reading->writing)
+f=open("File_Handling/demo3.txt","r+")
+print(f.read())
+f.write("i am chethan")
+f.close()
